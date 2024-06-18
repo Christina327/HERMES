@@ -1,0 +1,123 @@
+pubchemid,cuis,indication
+57469,C0043037,Verruca
+57469,C0009663,Condyloma acuminatum
+57469,C0862889,Superficial basal cell carcinoma
+57469,C0022602,Actinic keratosis
+5394,C0334579,"Astrocytoma, anaplastic"
+5394,C0349543,Glioblastoma multiforme of brain
+4212,C0023467,"Acute myeloid leukemia, disease"
+4212,C0751967,Relapsing remitting multiple sclerosis
+644241,C0023474,Chronic phase chronic myeloid leukemia
+9887053,C1282500,Metastasis from malignant tumor of colon
+9887053,C1282500,Metastasis from malignant tumor of colon
+126941,C0033860,Psoriasis
+126941,C3163805,Carcinoma of female breast
+126941,C0278996,Malignant tumor of head and/or neck
+126941,C3495559,Juvenile rheumatoid arthritis
+126941,C1135868,Gestational trophoblastic neoplasia
+126941,C0026948,Mycosis fungoides
+126941,C0024305,Non-Hodgkin's lymphoma
+126941,C0023449,Acute lymphoid leukemia
+126941,C0242379,Malignant tumor of lung
+126941,C0006413,Burkitt's lymphoma
+126941,C0003873,Rheumatoid arthritis
+126941,C0585442,Osteosarcoma of bone
+5329102,C0238198,Gastrointestinal stromal tumor
+5329102,C0007134,Renal cell carcinoma
+5284616,C0007134,Renal cell carcinoma
+5284616,C0349649,Pulmonary lymphangioleiomyomatosis
+3385,C0281361,Adenocarcinoma of pancreas
+3385,C0007102,Malignant tumor of colon
+3385,C0862889,Superficial basal cell carcinoma
+3385,C1282500,Metastasis from malignant tumor of colon
+3385,C0022602,Actinic keratosis
+3385,C0024623,Malignant tumor of stomach
+667490,C0023487,"Acute promyelocytic leukemia, FAB M3"
+667490,C0023449,Acute lymphoid leukemia
+5426,C0026764,Multiple myeloma
+5426,C0343467,Erythema nodosum leprosum
+2907,C0024299,Malignant lymphoma
+2907,C0026764,Multiple myeloma
+2907,C0026948,Mycosis fungoides
+2907,C0027819,Neuroblastoma
+2907,C0035335,Retinoblastoma
+2907,C0678222,Carcinoma of breast
+5746,C0281361,Adenocarcinoma of pancreas
+135398738,C0019829,Hodgkin's disease
+135398738,C0860594,Metastatic malignant melanoma
+426756,C1140680,Malignant tumor of ovary
+426756,C1140680,Malignant tumor of ovary
+36462,C0149925,Small cell carcinoma of lung
+36462,C0153594,Malignant tumor of testis
+36314,C0346976,Secondary malignant neoplasm of pancreas
+36314,C0036220,Kaposi's sarcoma
+36314,C0017612,Open-angle glaucoma
+36314,C1140680,Malignant tumor of ovary
+36314,C0028840,Ocular hypertension
+36314,C0007131,Non-small cell lung cancer
+36314,C0020538,Hypertensive disorder
+36314,C0678222,Carcinoma of breast
+36314,C0153467,Malignant tumor of peritoneum
+36314,C0238122,Carcinoma of fallopian tube
+9444,C0026986,Myelodysplastic syndrome
+9444,C0023480,Chronic myelomonocytic leukemia
+9444,C0023467,"Acute myeloid leukemia, disease"
+135401907,C1959799,Calcium renal calculus
+135401907,C0018099,Gout
+135401907,C0003868,Articular gout
+135401907,C0740394,Hyperuricemia
+135401907,C0558595,Uric acid renal calculus
+2708,C0024301,Follicular non-Hodgkin's lymphoma
+2708,C0019829,Hodgkin's disease
+2708,C0023434,"Chronic lymphoid leukemia, disease"
+3062316,C1960397,Philadelphia chromosome-positive acute lymphoblastic leukemia
+3062316,C0005699,Blastic phase chronic myeloid leukemia
+3062316,C0023474,Chronic phase chronic myeloid leukemia
+444795,C0023487,"Acute promyelocytic leukemia, FAB M3"
+444795,C0001144,Acne vulgaris
+444795,C0870082,Hyperkeratosis
+444795,C0025218,Chloasma
+4114,C0079773,Primary cutaneous T-cell lymphoma
+4114,C0042900,Vitiligo
+451668,C0023467,"Acute myeloid leukemia, disease"
+451668,C0026986,Myelodysplastic syndrome
+216326,C0026986,Myelodysplastic syndrome
+216326,C0026764,Multiple myeloma
+216326,C0334634,Mantle cell lymphoma
+123631,C0007131,Non-small cell lung cancer
+123631,C1960925,"Non-small cell lung cancer, positive for epidermal growth factor receptor expression"
+387447,C0026764,Multiple myeloma
+387447,C0334634,Mantle cell lymphoma
+2662,C3495559,Juvenile rheumatoid arthritis
+2662,C2215257,Acute postoperative pain
+2662,C0013390,Dysmenorrhea
+2662,C0003873,Rheumatoid arthritis
+2662,C0038013,Ankylosing spondylitis
+2662,C0029408,Osteoarthritis
+6442177,C0241961,Angiomyolipoma of kidney
+6442177,C0678222,Carcinoma of breast
+6442177,C1562029,Hormone receptor positive malignant neoplasm of breast
+6442177,C0007134,Renal cell carcinoma
+6442177,C0041341,Tuberous sclerosis syndrome
+60953,C1282500,Metastasis from malignant tumor of colon
+60953,C0024623,Malignant tumor of stomach
+460612,C1140680,Malignant tumor of ovary
+460612,C0026764,Multiple myeloma
+3657,C0278996,Malignant tumor of head and/or neck
+3657,C0238425,Hemoglobin SS disease with crisis
+3657,C0023473,Chronic myeloid leukemia
+3657,C1140680,Malignant tumor of ovary
+3657,C0002895,Hb SS disease
+3657,C0025202,Malignant melanoma
+2187,C1562029,Hormone receptor positive malignant neoplasm of breast
+68740,C0029456,Osteoporosis
+68740,C0029458,Postmenopausal osteoporosis
+68740,C0149911,Humoral hypercalcemia of malignancy
+68740,C0029401,Osteitis deformans
+148124,C0278996,Malignant tumor of head and/or neck
+148124,C0678222,Carcinoma of breast
+148124,C0007131,Non-small cell lung cancer
+148124,C0024623,Malignant tumor of stomach
+148124,C0376358,Malignant tumor of prostate
+3902,C1562029,Hormone receptor positive malignant neoplasm of breast
+60198,C1562029,Hormone receptor positive malignant neoplasm of breast
